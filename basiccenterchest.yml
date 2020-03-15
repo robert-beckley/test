@@ -20,35 +20,7 @@ chestItems:
       type: WATER_BUCKET
     - ==: org.bukkit.inventory.ItemStack
       type: LAVA_BUCKET
-  '40':
-    items:
-    - ==: org.bukkit.inventory.ItemStack
-      type: SNOW_BALL
-      amount: 2
-    - ==: org.bukkit.inventory.ItemStack
-      type: EGG
-      amount: 2
-    - ==: org.bukkit.inventory.ItemStack
-      type: BOW
-  '35':
-    items:
-    - ==: org.bukkit.inventory.ItemStack
-      type: LEATHER_BOOTS
-    - ==: org.bukkit.inventory.ItemStack
-      type: LEATHER_CHESTPLATE
-    - ==: org.bukkit.inventory.ItemStack
-      type: LEATHER_HELMET
-    - ==: org.bukkit.inventory.ItemStack
-      type: LEATHER_LEGGINGS
-    - ==: org.bukkit.inventory.ItemStack
-      type: WOOD_SPADE
-    - ==: org.bukkit.inventory.ItemStack
-      type: WOOD_PICKAXE
-    - ==: org.bukkit.inventory.ItemStack
-      type: WOOD_AXE
-    - ==: org.bukkit.inventory.ItemStack
-      type: WOOD_SWORD
-  '30':
+  '50':
     items:
     - ==: org.bukkit.inventory.ItemStack
       type: EGG
@@ -82,7 +54,7 @@ chestItems:
       type: STONE_AXE
     - ==: org.bukkit.inventory.ItemStack
       type: STONE_SPADE      
-  '15':  
+  '40':  
     items:
     - ==: org.bukkit.inventory.ItemStack
       type: GOLD_BOOTS
@@ -100,7 +72,7 @@ chestItems:
       type: IRON_PICKAXE
     - ==: org.bukkit.inventory.ItemStack
       type: IRON_SPADE
-  '10':
+  '35':
     items:
     - ==: org.bukkit.inventory.ItemStack
       type: IRON_BOOTS
