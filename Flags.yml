@@ -252,10 +252,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set notify-enter true'
+    - '[player] plot flag set notify-enter true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set notify-enter false'
+    - '[player] plot flag set notify-enter false'
     - '[close]'
   '3':
     material: JIGSAW
@@ -270,10 +270,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set notify-leave true'
+    - '[player] plot flag set notify-leave true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set notify-leave false'
+    - '[player] plot flag set notify-leave false'
     - '[close]'
   '4':
     material: JIGSAW
@@ -287,10 +287,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set titles true'
+    - '[player] plot flag set titles true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set titles false'
+    - '[player] plot flag set titles false'
     - '[close]'
   '5':
     material: JIGSAW
@@ -305,10 +305,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set invincible true'
+    - '[player] plot flag set invincible true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set invincible false'
+    - '[player] plot flag set invincible false'
     - '[close]'
   '7':
     material: JIGSAW
@@ -323,10 +323,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set instabreak true'
+    - '[player] plot flag set instabreak true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set instabreak false'
+    - '[player] plot flag set instabreak false'
     - '[close]'
   '8':
     material: JIGSAW
@@ -341,10 +341,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set fly true'
+    - '[player] plot flag set fly true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set fly false'
+    - '[player] plot flag set fly false'
     - '[close]'
   '9':
     material: JIGSAW
@@ -359,10 +359,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set disable-physics true'
+    - '[player] plot flag set disable-physics true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set disable-physics false'
+    - '[player] plot flag set disable-physics false'
     - '[close]'
   '10':
     material: JIGSAW
@@ -377,10 +377,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set grass-grow true'
+    - '[player] plot flag set grass-grow true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set grass-grow false'
+    - '[player] plot flag set grass-grow false'
     - '[close]'
   '11':
     material: JIGSAW
@@ -395,10 +395,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set ice-melt true'
+    - '[player] plot flag set ice-melt true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set ice-melt false'
+    - '[player] plot flag set ice-melt false'
     - '[close]'
   '12':
     material: JIGSAW
@@ -413,10 +413,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set ice-form true'
+    - '[player] plot flag set ice-form true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set ice-form false'
+    - '[player] plot flag set ice-form false'
     - '[close]'
   '13':
     material: JIGSAW
@@ -431,10 +431,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set mycel-grow true'
+    - '[player] plot flag set mycel-grow true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set mycel-grow false'
+    - '[player] plot flag set mycel-grow false'
     - '[close]'
   '14':
     material: JIGSAW
@@ -449,10 +449,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set snow-melt true'
+    - '[player] plot flag set snow-melt true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set snow-melt false'
+    - '[player] plot flag set snow-melt false'
     - '[close]'
   '15':
     material: JIGSAW
@@ -467,10 +467,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set snow-form true'
+    - '[player] plot flag set snow-form true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set snow-form false'
+    - '[player] plot flag set snow-form false'
     - '[close]'
   '16':
     material: JIGSAW
@@ -485,10 +485,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set vine-grow true'
+    - '[player] plot flag set vine-grow true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set vine-grow false'
+    - '[player] plot flag set vine-grow false'
     - '[close]'
   '17':
     material: JIGSAW
@@ -503,10 +503,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set pve true'
+    - '[player] plot flag set pve true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set pve false'
+    - '[player] plot flag set pve false'
     - '[close]'
   '18':
     material: JIGSAW
@@ -521,10 +521,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set pvp true'
+    - '[player] plot flag set pvp true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set pvp false'
+    - '[player] plot flag set pvp false'
     - '[close]'
   '19':
     material: JIGSAW
@@ -539,10 +539,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set deny-exit true'
+    - '[player] plot flag set deny-exit true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set deny-exit false'
+    - '[player] plot flag set deny-exit false'
     - '[close]'
   '20':
     material: JIGSAW
@@ -557,10 +557,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set explosion true'
+    - '[player] plot flag set explosion true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set explosion false'
+    - '[player] plot flag set explosion false'
     - '[close]'
   '21':
     material: JIGSAW
@@ -576,10 +576,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set player-interact true'
+    - '[player] plot flag set player-interact true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set player-interact false'
+    - '[player] plot flag set player-interact false'
     - '[close]'
   '22':
     material: JIGSAW
@@ -595,10 +595,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set hostile-interact true'
+    - '[player] plot flag set hostile-interact true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set hostile-interact false'
+    - '[player] plot flag set hostile-interact false'
     - '[close]'
   '23':
     material: JIGSAW
@@ -614,10 +614,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set hostile-attack true'
+    - '[player] plot flag set hostile-attack true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set hostile-attack false'
+    - '[player] plot flag set hostile-attack false'
     - '[close]'
   '24':
     material: JIGSAW
@@ -633,10 +633,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set animal-interact true'
+    - '[player] plot flag set animal-interact true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set animal-interact false'
+    - '[player] plot flag set animal-interact false'
     - '[close]'
   '25':
     material: JIGSAW
@@ -652,10 +652,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set animal-attack true'
+    - '[player] plot flag set animal-attack true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set animal-attack false'
+    - '[player] plot flag set animal-attack false'
     - '[close]'
   '26':
     material: JIGSAW
@@ -671,10 +671,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set tamed-interact true'
+    - '[player] plot flag set tamed-interact true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set tamed-interact false'
+    - '[player] plot flag set tamed-interact false'
     - '[close]'
   '27':
     material: JIGSAW
@@ -690,10 +690,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set tamed-attack true'
+    - '[player] plot flag set tamed-attack true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set tamed-attack false'
+    - '[player] plot flag set tamed-attack false'
     - '[close]'
   '28':
     material: JIGSAW
@@ -709,10 +709,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set misc-interact true'
+    - '[player] plot flag set misc-interact true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set misc-interact false'
+    - '[player] plot flag set misc-interact false'
     - '[close]'
   '29':
     material: JIGSAW
@@ -728,10 +728,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set hanging-place true'
+    - '[player] plot flag set hanging-place true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set hanging-place false'
+    - '[player] plot flag set hanging-place false'
     - '[close]'
   '30':
     material: JIGSAW
@@ -747,10 +747,10 @@ items:
     - '&7Left Click: &aEnable'
     - '&7Right Click: &cDisable'
     left_click_commands:
-    - '[player] plot set hanging-break true'
+    - '[player] plot flag set hanging-break true'
     - '[close]'
     right_click_commands:
-    - '[player] plot set hanging-break false'
+    - '[player] plot flag set hanging-break false'
     - '[close]'
   '31':
     material: BARRIER
