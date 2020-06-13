@@ -45,7 +45,7 @@ overworld:
   - CAULDRON
   - CHEST
   - CHISELED_STONE_BRICKS
-  - CLAY_BALL
+  - CLAY
   - COAL_BLOCK
   - COAL_ORE
   - COARSE_DIRT
@@ -269,7 +269,7 @@ overworld:
   - DEAD_BUSH
   - SMITHING_TABLE
   items:
-  - BAMBOO_SHOOT
+  - BAMBOO
   - CACTUS
   - SUGAR_CANE
   - SWEET_BERRY_BUSH
